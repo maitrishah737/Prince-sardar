@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s -o ~/Downloads/website/assets/hero.png \"https://cdn.corrra.com/users/qT1ZsEMr0uKHmyQ2hH8e4GJs8TkoCX3E/avatar/7844fece-4a8e-4ffe-9c19-577d8dba9cc3.png\")"
+    ]
+  }
+}
